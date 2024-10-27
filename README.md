@@ -92,7 +92,7 @@ If the person is diabetic:
 
 ## Screenshots
 ## Home Page for Diabetes
-![Image 1](Images/home_page.png)
+![Image 1](Images/home_page1.png)
 
 ## Home page for Heart Disease
 ![Image 2](Images/home_page2.png)
@@ -107,7 +107,7 @@ If the person is diabetic:
 ![Image 2](Images/home_page5.png)
 
 ## Prediction Page
-![Image 4](Prediction.png)
+![Image 4](Images/Prediction.png)
 
 
 
