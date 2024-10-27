@@ -91,10 +91,25 @@ If the person is diabetic:
 ---
 
 ## Screenshots
+## Home Page for Diabetes
+![Image 1](Images/home_page.png)
 
-Add screenshots of the interface and predictions to enhance readability.
+## Home page for Heart Disease
+![Image 2](Images/home_page2.png)
 
----
+## Home page for Parkinsons
+![Image 3](Images/home_page3.png)
+
+## Home page for Breast Cancer
+![Image 4](Images/home_page4.png)
+
+## Home page for Stroke
+![Image 2](Images/home_page5.png)
+
+## Prediction Page
+![Image 4](Prediction.png)
+
+
 
 ## Requirements
 
