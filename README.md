@@ -36,7 +36,7 @@ Each prediction model is based on a trained machine learning algorithm, providin
 
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run finalproject.py
    ```
 
 ---
@@ -155,7 +155,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 
 ## Contact
 
-For any inquiries or feedback, contact: **Kumar Aditya**
+For any inquiries or feedback, contact: **adityapupun535@gmail.com**
 
 ---
 
